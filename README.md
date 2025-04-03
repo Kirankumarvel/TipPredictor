@@ -17,7 +17,7 @@ Data is sourced from:
 ## 🛠 Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/TipPredictor.git
+    git clone https://github.com/kirankumarvel/TipPredictor.git
     cd TipPredictor
     ```
 2. Install dependencies:
