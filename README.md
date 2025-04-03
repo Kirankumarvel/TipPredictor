@@ -12,7 +12,7 @@ TipPredictor is a machine learning model that predicts taxi tip amounts using a 
 ## 📊 Dataset
 The model uses the **NYC Yellow Taxi Trip Dataset** for training and evaluation.
 Data is sourced from:
-[Yellow Taxi Trip Data](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/pu9kbeSaAtRZ7RxdJKX9_A/yellow-tripdata.csv)
+[[Yellow Taxi Trip Data](https://github.com/Kirankumarvel/TipPredictor/blob/main/yellow_tripdata.csv)]
 
 ## 🛠 Installation
 1. Clone the repository:
@@ -71,8 +71,8 @@ This workflow demonstrates a complete pipeline for data analysis, feature engine
 
 
 
-
 ## 📜 License
+
 This project is licensed under the MIT License.
 
 
