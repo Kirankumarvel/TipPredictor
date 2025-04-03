@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 
 #Dataset Analysis
 # read the input data
-url = 'https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/pu9kbeSaAtRZ7RxdJKX9_A/yellow-tripdata.csv'
+url = 'yellow-tripdata.csv'
 raw_data = pd.read_csv(url)
 
 # Display the dataset
